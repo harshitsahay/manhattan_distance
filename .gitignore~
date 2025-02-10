@@ -1,5 +1,0 @@
-service-account.json
-*.pyc
-__pycache__/
-static/maps/*
-!static/maps/.gitkeep
