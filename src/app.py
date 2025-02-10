@@ -1,4 +1,4 @@
-from flask import Flask, render_template, jsonify
+from flask import Flask, render_template, jsonify, send_from_directory
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import pandas as pd
@@ -10,14 +10,15 @@ from datetime import datetime
 # Initialize Flask app
 app = Flask(__name__)
 
-# Define paths relative to the script's location
+# Define paths relative to src/app.py
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # Root directory
 GPX_FOLDER = os.path.join(BASE_DIR, 'gpx_files')  # Path to gpx_files
 STATIC_MAPS_FOLDER = os.path.join(BASE_DIR, 'static', 'maps')  # Path to static/maps
 TEMPLATES_FOLDER = os.path.join(BASE_DIR, 'templates')  # Path to templates
 
-# Set the template folder for Flask
+# Set the template and static folders for Flask
 app.template_folder = TEMPLATES_FOLDER
+app.static_folder = os.path.join(BASE_DIR, 'static')
 
 class GPXMapGenerator:
     def __init__(self):
@@ -99,7 +100,8 @@ def generate_map():
         
         # Save map
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        map_path = os.path.join(STATIC_MAPS_FOLDER, f'gpx_map_{timestamp}.html')
+        map_filename = f'gpx_map_{timestamp}.html'
+        map_path = os.path.join(STATIC_MAPS_FOLDER, map_filename)
         m.save(map_path)
         
         # Keep only the latest 5 maps
@@ -107,7 +109,7 @@ def generate_map():
         
         return {
             'success': True,
-            'map_file': os.path.basename(map_path),
+            'map_file': map_filename,
             'total_distance': round(total_walked_distance, 2),
             'timestamp': datetime.now().strftime("%Y-%m-%d")
         }
@@ -130,6 +132,10 @@ def index():
 @app.route('/update_map')
 def update_map():
     return jsonify(generate_map())
+
+@app.route('/static/maps/<path:filename>')
+def serve_map(filename):
+    return send_from_directory(STATIC_MAPS_FOLDER, filename)
 
 if __name__ == '__main__':
     # Create static/maps directory if it doesn't exist
