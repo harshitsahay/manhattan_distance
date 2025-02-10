@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>New York Route</name>
+  <trkseg>
+   <trkpt lat="40.74317" lon="-74.00845"/>
+   <trkpt lat="40.74305" lon="-74.00848"/>
+   <trkpt lat="40.74303" lon="-74.00844"/>
+   <trkpt lat="40.74295" lon="-74.00826"/>
+   <trkpt lat="40.74281" lon="-74.0079"/>
+   <trkpt lat="40.74275" lon="-74.00767"/>
+   <trkpt lat="40.74276" lon="-74.00766"/>
+   <trkpt lat="40.74267" lon="-74.00741"/>
+   <trkpt lat="40.74255" lon="-74.00714"/>
+   <trkpt lat="40.7423" lon="-74.00656"/>
+   <trkpt lat="40.74209" lon="-74.00607"/>
+   <trkpt lat="40.74201" lon="-74.00584"/>
+   <trkpt lat="40.74185" lon="-74.00549"/>
+   <trkpt lat="40.74169" lon="-74.00511"/>
+   <trkpt lat="40.74162" lon="-74.00491"/>
+   <trkpt lat="40.74159" lon="-74.00494"/>
+   <trkpt lat="40.74154" lon="-74.00483"/>
+   <trkpt lat="40.74154" lon="-74.0048"/>
+   <trkpt lat="40.74128" lon="-74.00418"/>
+   <trkpt lat="40.74068" lon="-74.00271"/>
+   <trkpt lat="40.74046" lon="-74.00221"/>
+  </trkseg>
+ </trk>
+</gpx>

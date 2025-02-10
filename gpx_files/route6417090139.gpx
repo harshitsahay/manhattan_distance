@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>01/04/2024</name>
+  <trkseg>
+   <trkpt lat="40.73221" lon="-74.0005"/>
+   <trkpt lat="40.73173" lon="-74.00084"/>
+   <trkpt lat="40.73171" lon="-74.0008"/>
+   <trkpt lat="40.73168" lon="-74.00082"/>
+   <trkpt lat="40.7316" lon="-74.00088"/>
+   <trkpt lat="40.73157" lon="-74.0009"/>
+   <trkpt lat="40.73137" lon="-74.00104"/>
+   <trkpt lat="40.73127" lon="-74.00116"/>
+   <trkpt lat="40.73108" lon="-74.0013"/>
+   <trkpt lat="40.73106" lon="-74.00126"/>
+   <trkpt lat="40.73098" lon="-74.00131"/>
+   <trkpt lat="40.73096" lon="-74.00132"/>
+   <trkpt lat="40.73096" lon="-74.00132"/>
+   <trkpt lat="40.73042" lon="-74.00022"/>
+   <trkpt lat="40.73042" lon="-74.00022"/>
+   <trkpt lat="40.72926" lon="-74.0012"/>
+  </trkseg>
+ </trk>
+</gpx>

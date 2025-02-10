@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GPX Map Generator</title>
+    <!-- Include Bootstrap for styling -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        #map {
+            height: 600px; /* Set a fixed height for the map container */
+            width: 100%;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <h1 class="text-center">GPX Map Generator</h1>
+        <div class="row">
+            <div class="col-md-12">
+                <!-- Map container -->
+                <div id="map"></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <!-- Button to update the map -->
+                <button id="update-map-btn" class="btn btn-primary">Update Map</button>
+            </div>
+        </div>
+        <div class="row mt-3">
+            <div class="col-md-12 text-center">
+                <!-- Display total walked distance -->
+                <p>Total Walked Distance: <span id="total-distance">0.00</span> km</p>
+                <p>Last Updated: <span id="last-updated">Never</span></p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Include Bootstrap JS and dependencies -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Include jQuery for AJAX -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        // Function to load the latest map
+        function loadMap(mapFile) {
+            $('#map').html('<iframe src="/static/maps/' + mapFile + '" width="100%" height="100%" style="border:none;"></iframe>');
+        }
+
+        // Function to update the map and distance
+        function updateMap() {
+            $.ajax({
+                url: '/update_map',
+                method: 'GET',
+                success: function(response) {
+                    if (response.success) {
+                        // Load the new map
+                        loadMap(response.map_file);
+                        // Update the total distance
+                        $('#total-distance').text(response.total_distance);
+                        // Update the last updated timestamp
+                        $('#last-updated').text(response.timestamp);
+                    } else {
+                        alert('Error updating map: ' + response.error);
+                    }
+                },
+                error: function(xhr, status, error) {
+                    alert('Error updating map: ' + error);
+                }
+            });
+        }
+
+        // Load the latest map when the page loads
+        $(document).ready(function() {
+            updateMap();
+        });
+
+        // Bind the button click to update the map
+        $('#update-map-btn').click(function() {
+            updateMap();
+        });
+    </script>
+</body>
+</html>

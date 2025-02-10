@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+service-account.json  # Exclude your Google Sheets credentials file
+
+# Static files (if you don't want to track generated maps)
+static/maps/

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>chama mama</name>
+  <trkseg>
+   <trkpt lat="40.73841" lon="-73.99905"/>
+   <trkpt lat="40.7386" lon="-73.9995"/>
+   <trkpt lat="40.7386" lon="-73.9995"/>
+   <trkpt lat="40.73914" lon="-73.99911"/>
+   <trkpt lat="40.73914" lon="-73.99911"/>
+   <trkpt lat="40.74013" lon="-74.00145"/>
+  </trkseg>
+ </trk>
+</gpx>
