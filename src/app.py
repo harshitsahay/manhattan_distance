@@ -5,7 +5,13 @@ import pandas as pd
 import folium
 import gpxpy
 import os
+import json
 from datetime import datetime
+
+
+from dotenv import load_dotenv
+load_dotenv()
+
 
 # Initialize Flask app
 app = Flask(__name__)
@@ -24,13 +30,19 @@ class GPXMapGenerator:
     def __init__(self):
         self.SCOPES = ['https://spreadsheets.google.com/feeds',
                       'https://www.googleapis.com/auth/drive']
-        self.service_account_file = os.path.join(BASE_DIR, 'service-account.json')
-        
+        self.credentials = self.get_credentials_from_env()
+
+    def get_credentials_from_env(self):
+        """Get credentials from the environment variable"""
+        credentials_json = os.getenv('GOOGLE_SHEETS_CREDENTIALS')
+        if not credentials_json:
+            raise ValueError("GOOGLE_SHEETS_CREDENTIALS environment variable not set")
+        credentials_info = json.loads(credentials_json)
+        return ServiceAccountCredentials.from_json_keyfile_dict(credentials_info, self.SCOPES)
+
     def setup_sheets_connection(self):
         """Set up Google Sheets connection using service account"""
-        creds = ServiceAccountCredentials.from_json_keyfile_name(
-            self.service_account_file, self.SCOPES)
-        client = gspread.authorize(creds)
+        client = gspread.authorize(self.credentials)
         return client
 
     def get_spreadsheet_data(self, sheet_url):
@@ -91,7 +103,10 @@ class GPXMapGenerator:
         return m, total_walked_distance
 
 def generate_map():
-    sheet_url = "https://docs.google.com/spreadsheets/d/1BIVMDSZhXwElze05piLSCBMKw1pGQpPe3Gz5-zpg4i0/edit?usp=sharing"
+    sheet_url = os.getenv('SHEET_URL')  # Read from environment variable
+    if not sheet_url:
+        return {'success': False, 'error': 'SHEET_URL environment variable not set'}
+    
     generator = GPXMapGenerator()
     
     try:
