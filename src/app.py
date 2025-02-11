@@ -155,4 +155,7 @@ def serve_map(filename):
 if __name__ == '__main__':
     # Create static/maps directory if it doesn't exist
     os.makedirs(STATIC_MAPS_FOLDER, exist_ok=True)
-    app.run(debug=True, port=5001)
+    port = int(os.getenv('PORT', 5001))  # Default to 5001 for local development
+
+    # Run the app
+    app.run(host='0.0.0.0', port=port, debug=False)  # Disable debug mode for production
