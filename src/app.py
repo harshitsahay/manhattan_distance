@@ -8,11 +8,6 @@ import os
 import json
 from datetime import datetime
 
-
-from dotenv import load_dotenv
-load_dotenv()
-
-
 # Initialize Flask app
 app = Flask(__name__)
 
@@ -25,6 +20,11 @@ TEMPLATES_FOLDER = os.path.join(BASE_DIR, 'templates')  # Path to templates
 # Set the template and static folders for Flask
 app.template_folder = TEMPLATES_FOLDER
 app.static_folder = os.path.join(BASE_DIR, 'static')
+
+# Debugging: Print environment variables and paths
+print("GOOGLE_SHEETS_CREDENTIALS:", os.getenv('GOOGLE_SHEETS_CREDENTIALS'))
+print("SHEET_URL:", os.getenv('SHEET_URL'))
+print("STATIC_MAPS_FOLDER:", STATIC_MAPS_FOLDER)
 
 class GPXMapGenerator:
     def __init__(self):
@@ -152,9 +152,15 @@ def update_map():
 def serve_map(filename):
     return send_from_directory(STATIC_MAPS_FOLDER, filename)
 
+@app.route('/test')
+def test():
+    return "Hello, Render!"
+
 if __name__ == '__main__':
     # Create static/maps directory if it doesn't exist
     os.makedirs(STATIC_MAPS_FOLDER, exist_ok=True)
+
+    # Get the port from the environment variable (Render sets this)
     port = int(os.getenv('PORT', 5001))  # Default to 5001 for local development
 
     # Run the app
