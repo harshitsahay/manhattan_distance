@@ -1,27 +1,10 @@
 <?xml version="1.0" ?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
-  <name>09/24/2024</name>
+  <name>Post my Old Ass</name>
   <trkseg>
-   <trkpt lat="40.74574" lon="-73.98224"/>
-   <trkpt lat="40.74527" lon="-73.9811"/>
-   <trkpt lat="40.74511" lon="-73.98073"/>
-   <trkpt lat="40.74507" lon="-73.98075"/>
-   <trkpt lat="40.74504" lon="-73.98067"/>
-   <trkpt lat="40.74507" lon="-73.98064"/>
-   <trkpt lat="40.74504" lon="-73.98057"/>
-   <trkpt lat="40.74464" lon="-73.97962"/>
-   <trkpt lat="40.74444" lon="-73.97912"/>
-   <trkpt lat="40.7444" lon="-73.97915"/>
-   <trkpt lat="40.74437" lon="-73.97906"/>
-   <trkpt lat="40.7444" lon="-73.97904"/>
-   <trkpt lat="40.74394" lon="-73.97796"/>
-   <trkpt lat="40.74392" lon="-73.9779"/>
-   <trkpt lat="40.7435" lon="-73.97689"/>
-   <trkpt lat="40.74347" lon="-73.97691"/>
-   <trkpt lat="40.74344" lon="-73.97683"/>
-   <trkpt lat="40.74355" lon="-73.97675"/>
-   <trkpt lat="40.7435" lon="-73.97662"/>
+   <trkpt lat="40.74574628" lon="-73.98214089"/>
+   <trkpt lat="40.74352435" lon="-73.97686614"/>
   </trkseg>
  </trk>
 </gpx>

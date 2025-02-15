@@ -1,16 +1,14 @@
 <?xml version="1.0" ?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1">
  <trk>
-  <name>02/09/2025</name>
+  <name>Post central park short</name>
   <trkseg>
-   <trkpt lat="40.77564" lon="-73.9646"/>
-   <trkpt lat="40.77623" lon="-73.96417"/>
-   <trkpt lat="40.77623" lon="-73.96417"/>
-   <trkpt lat="40.77581" lon="-73.96319"/>
-   <trkpt lat="40.77562" lon="-73.96274"/>
-   <trkpt lat="40.77555" lon="-73.96256"/>
-   <trkpt lat="40.77555" lon="-73.96256"/>
-   <trkpt lat="40.77523" lon="-73.96279"/>
+   <trkpt lat="40.7756801" lon="-73.96467843"/>
+   <trkpt lat="40.77629758" lon="-73.96421709"/>
+   <trkpt lat="40.77629758" lon="-73.96421709"/>
+   <trkpt lat="40.7756444" lon="-73.96262425"/>
+   <trkpt lat="40.7756444" lon="-73.96262425"/>
+   <trkpt lat="40.77536512" lon="-73.96282273"/>
   </trkseg>
  </trk>
 </gpx>

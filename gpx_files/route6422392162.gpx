@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>Union Square walk </name>
+  <trkseg>
+   <trkpt lat="40.73521" lon="-73.99173"/>
+   <trkpt lat="40.73713238" lon="-73.99034895"/>
+   <trkpt lat="40.73713" lon="-73.99034"/>
+   <trkpt lat="40.73729" lon="-73.99026"/>
+   <trkpt lat="40.7378" lon="-73.99012"/>
+   <trkpt lat="40.73869" lon="-73.9899"/>
+   <trkpt lat="40.73918" lon="-73.98977"/>
+   <trkpt lat="40.74004" lon="-73.98953"/>
+   <trkpt lat="40.74025" lon="-73.98947"/>
+   <trkpt lat="40.74029" lon="-73.98949"/>
+   <trkpt lat="40.74036" lon="-73.98952"/>
+   <trkpt lat="40.74064" lon="-73.98945"/>
+   <trkpt lat="40.74064" lon="-73.98945"/>
+   <trkpt lat="40.74085" lon="-73.98937"/>
+   <trkpt lat="40.74089" lon="-73.98933"/>
+   <trkpt lat="40.74096" lon="-73.98928"/>
+   <trkpt lat="40.74118" lon="-73.98921"/>
+   <trkpt lat="40.74138" lon="-73.98916"/>
+   <trkpt lat="40.74138" lon="-73.98916"/>
+   <trkpt lat="40.74155" lon="-73.98958"/>
+   <trkpt lat="40.74155" lon="-73.98958"/>
+   <trkpt lat="40.74233" lon="-73.99145"/>
+   <trkpt lat="40.74274" lon="-73.9924"/>
+   <trkpt lat="40.74296" lon="-73.99292"/>
+  </trkseg>
+ </trk>
+</gpx>

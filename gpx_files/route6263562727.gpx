@@ -3,36 +3,15 @@
  <trk>
   <name>Post Ivan Ramen</name>
   <trkseg>
-   <trkpt lat="40.71855" lon="-73.98816"/>
-   <trkpt lat="40.71858" lon="-73.98814"/>
-   <trkpt lat="40.71856" lon="-73.98809"/>
-   <trkpt lat="40.71865" lon="-73.98806"/>
-   <trkpt lat="40.71865" lon="-73.98808"/>
-   <trkpt lat="40.71866" lon="-73.9881"/>
-   <trkpt lat="40.71883" lon="-73.98801"/>
-   <trkpt lat="40.71911" lon="-73.98787"/>
-   <trkpt lat="40.71916" lon="-73.98784"/>
-   <trkpt lat="40.71979" lon="-73.98751"/>
-   <trkpt lat="40.71977" lon="-73.98745"/>
-   <trkpt lat="40.71984" lon="-73.98741"/>
-   <trkpt lat="40.71986" lon="-73.98748"/>
-   <trkpt lat="40.72016" lon="-73.98732"/>
-   <trkpt lat="40.72033" lon="-73.98724"/>
-   <trkpt lat="40.72093" lon="-73.98694"/>
-   <trkpt lat="40.72094" lon="-73.98693"/>
-   <trkpt lat="40.72075" lon="-73.98627"/>
-   <trkpt lat="40.72073" lon="-73.98622"/>
-   <trkpt lat="40.72071" lon="-73.98624"/>
-   <trkpt lat="40.72068" lon="-73.98615"/>
-   <trkpt lat="40.72071" lon="-73.98613"/>
-   <trkpt lat="40.72048" lon="-73.98538"/>
-   <trkpt lat="40.72045" lon="-73.98539"/>
-   <trkpt lat="40.72043" lon="-73.9853"/>
-   <trkpt lat="40.72045" lon="-73.98529"/>
-   <trkpt lat="40.72023" lon="-73.98458"/>
-   <trkpt lat="40.7203" lon="-73.98455"/>
-   <trkpt lat="40.72029" lon="-73.98451"/>
-   <trkpt lat="40.72052" lon="-73.98439"/>
+   <trkpt lat="40.71871" lon="-73.98813"/>
+   <trkpt lat="40.72097" lon="-73.98697"/>
+   <trkpt lat="40.72097" lon="-73.98697"/>
+   <trkpt lat="40.72099" lon="-73.98695"/>
+   <trkpt lat="40.72078" lon="-73.98625"/>
+   <trkpt lat="40.7205" lon="-73.98532"/>
+   <trkpt lat="40.72024" lon="-73.98448"/>
+   <trkpt lat="40.72024" lon="-73.98448"/>
+   <trkpt lat="40.72051" lon="-73.98434"/>
   </trkseg>
  </trk>
 </gpx>
