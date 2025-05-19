@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>5/18/2025</name>
+  <trkseg>
+   <trkpt lat="40.72535" lon="-73.99685"/>
+   <trkpt lat="40.72154" lon="-74.00008"/>
+   <trkpt lat="40.72086" lon="-74.00064"/>
+   <trkpt lat="40.71999" lon="-74.00139"/>
+   <trkpt lat="40.71803" lon="-74.00307"/>
+   <trkpt lat="40.71524" lon="-74.00543"/>
+   <trkpt lat="40.71422" lon="-74.00627"/>
+   <trkpt lat="40.71422" lon="-74.00627"/>
+   <trkpt lat="40.71292" lon="-74.00734"/>
+   <trkpt lat="40.71192" lon="-74.00819"/>
+   <trkpt lat="40.71141" lon="-74.00867"/>
+   <trkpt lat="40.71141" lon="-74.00867"/>
+   <trkpt lat="40.71091" lon="-74.0091"/>
+   <trkpt lat="40.71042" lon="-74.00948"/>
+   <trkpt lat="40.70996" lon="-74.00989"/>
+   <trkpt lat="40.70934" lon="-74.0104"/>
+   <trkpt lat="40.70833" lon="-74.01124"/>
+   <trkpt lat="40.70833" lon="-74.01124"/>
+   <trkpt lat="40.70646" lon="-74.01278"/>
+   <trkpt lat="40.70614" lon="-74.01305"/>
+   <trkpt lat="40.70579" lon="-74.01336"/>
+   <trkpt lat="40.70538" lon="-74.0137"/>
+   <trkpt lat="40.7051" lon="-74.01392"/>
+   <trkpt lat="40.70471" lon="-74.01413"/>
+   <trkpt lat="40.70463" lon="-74.01424"/>
+  </trkseg>
+ </trk>
+</gpx>
