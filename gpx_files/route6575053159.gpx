@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>3/31: Union sq TJ to burlington, then West 4th</name>
+  <trkseg>
+   <trkpt lat="40.73512551" lon="-73.99153699"/>
+   <trkpt lat="40.73353412" lon="-73.98776044"/>
+   <trkpt lat="40.73353412" lon="-73.98776044"/>
+   <trkpt lat="40.73479538" lon="-73.99074197"/>
+   <trkpt lat="40.73479538" lon="-73.99074197"/>
+   <trkpt lat="40.73246213" lon="-73.99128591"/>
+   <trkpt lat="40.73246213" lon="-73.99128591"/>
+   <trkpt lat="40.73539264" lon="-73.99827394"/>
+   <trkpt lat="40.73539264" lon="-73.99827394"/>
+   <trkpt lat="40.73169303" lon="-74.00095594"/>
+  </trkseg>
+ </trk>
+</gpx>

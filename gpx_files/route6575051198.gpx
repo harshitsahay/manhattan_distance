@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>5/11: McNally Jackson</name>
+  <trkseg>
+   <trkpt lat="40.7647282" lon="-73.96636244"/>
+   <trkpt lat="40.75835492" lon="-73.97099627"/>
+   <trkpt lat="40.75835492" lon="-73.97099627"/>
+   <trkpt lat="40.75775354" lon="-73.97143616"/>
+   <trkpt lat="40.75775354" lon="-73.97143616"/>
+   <trkpt lat="40.75911946" lon="-73.97469117"/>
+   <trkpt lat="40.75911946" lon="-73.97469117"/>
+   <trkpt lat="40.759783" lon="-73.97628621"/>
+   <trkpt lat="40.759783" lon="-73.97628621"/>
+   <trkpt lat="40.75729188" lon="-73.97812026"/>
+   <trkpt lat="40.75729188" lon="-73.97812026"/>
+   <trkpt lat="40.75794999" lon="-73.97964628"/>
+  </trkseg>
+ </trk>
+</gpx>

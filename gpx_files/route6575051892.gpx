@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>3/8: Union Square to East 3rd</name>
+  <trkseg>
+   <trkpt lat="40.7351" lon="-73.9916"/>
+   <trkpt lat="40.732349" lon="-73.9849221"/>
+   <trkpt lat="40.732349" lon="-73.9849221"/>
+   <trkpt lat="40.72557212" lon="-73.98986815"/>
+   <trkpt lat="40.72557212" lon="-73.98986815"/>
+   <trkpt lat="40.72265451" lon="-73.98296493"/>
+   <trkpt lat="40.72265451" lon="-73.98296493"/>
+   <trkpt lat="40.72154867" lon="-73.98374813"/>
+   <trkpt lat="40.72154867" lon="-73.98374813"/>
+   <trkpt lat="40.72345354" lon="-73.99010905"/>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>3/28: Pizza</name>
+  <trkseg>
+   <trkpt lat="40.73453" lon="-73.99227"/>
+   <trkpt lat="40.73351562" lon="-73.98984323"/>
+  </trkseg>
+ </trk>
+</gpx>

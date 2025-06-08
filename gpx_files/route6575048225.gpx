@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>3/25: Qawhah house to Shake Shack </name>
+  <trkseg>
+   <trkpt lat="40.73037661" lon="-74.00237352"/>
+   <trkpt lat="40.72946334" lon="-74.00517823"/>
+   <trkpt lat="40.72946334" lon="-74.00517823"/>
+   <trkpt lat="40.72934059" lon="-74.00521146"/>
+  </trkseg>
+ </trk>
+</gpx>

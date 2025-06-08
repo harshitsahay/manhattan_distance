@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>3/22: 2nd Ave F to DROM</name>
+  <trkseg>
+   <trkpt lat="40.72345" lon="-73.9901"/>
+   <trkpt lat="40.72229705" lon="-73.98628217"/>
+   <trkpt lat="40.72229705" lon="-73.98628217"/>
+   <trkpt lat="40.72524445" lon="-73.98412744"/>
+  </trkseg>
+ </trk>
+</gpx>
