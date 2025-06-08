@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>PATB to Rizzoli; 5/17/2025</name>
+  <trkseg>
+   <trkpt lat="40.75555" lon="-73.98978"/>
+   <trkpt lat="40.75354498" lon="-73.98503576"/>
+   <trkpt lat="40.75354498" lon="-73.98503576"/>
+   <trkpt lat="40.74481223" lon="-73.99140042"/>
+   <trkpt lat="40.74481223" lon="-73.99140042"/>
+   <trkpt lat="40.74380252" lon="-73.98903453"/>
+   <trkpt lat="40.74380252" lon="-73.98903453"/>
+   <trkpt lat="40.74304345" lon="-73.98916171"/>
+   <trkpt lat="40.74304345" lon="-73.98916171"/>
+   <trkpt lat="40.74283211" lon="-73.98864672"/>
+   <trkpt lat="40.74283211" lon="-73.98864672"/>
+   <trkpt lat="40.74155996" lon="-73.98955868"/>
+   <trkpt lat="40.74155996" lon="-73.98955868"/>
+   <trkpt lat="40.74289532" lon="-73.99277628"/>
+   <trkpt lat="40.74289532" lon="-73.99277628"/>
+   <trkpt lat="40.73297321" lon="-74.00002031"/>
+  </trkseg>
+ </trk>
+</gpx>
