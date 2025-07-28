@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>7/5: Wok to Walk to Broadway</name>
+  <trkseg>
+   <trkpt lat="40.754707" lon="-73.991633"/>
+   <trkpt lat="40.754772" lon="-73.991586"/>
+   <trkpt lat="40.75494" lon="-73.991463"/>
+   <trkpt lat="40.755267" lon="-73.991223"/>
+   <trkpt lat="40.75533" lon="-73.991177"/>
+   <trkpt lat="40.75533" lon="-73.991177"/>
+   <trkpt lat="40.75528" lon="-73.991059"/>
+   <trkpt lat="40.754199" lon="-73.988453"/>
+   <trkpt lat="40.754147" lon="-73.988323"/>
+   <trkpt lat="40.754101" lon="-73.988207"/>
+   <trkpt lat="40.753963" lon="-73.98788"/>
+   <trkpt lat="40.753813" lon="-73.987522"/>
+   <trkpt lat="40.75369" lon="-73.987232"/>
+   <trkpt lat="40.753665" lon="-73.987173"/>
+   <trkpt lat="40.753646" lon="-73.987127"/>
+   <trkpt lat="40.753622" lon="-73.98707"/>
+  </trkseg>
+ </trk>
+</gpx>

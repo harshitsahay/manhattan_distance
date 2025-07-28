@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>Venchi to Central Park from Manhattahenge</name>
+  <trkseg>
+   <trkpt lat="40.766716" lon="-73.982873"/>
+   <trkpt lat="40.76682" lon="-73.982795"/>
+   <trkpt lat="40.767126" lon="-73.982566"/>
+   <trkpt lat="40.767331" lon="-73.982413"/>
+   <trkpt lat="40.7674" lon="-73.982364"/>
+   <trkpt lat="40.767468" lon="-73.982312"/>
+   <trkpt lat="40.767537" lon="-73.982264"/>
+   <trkpt lat="40.767593" lon="-73.982225"/>
+   <trkpt lat="40.767723" lon="-73.982134"/>
+   <trkpt lat="40.767723" lon="-73.982134"/>
+   <trkpt lat="40.767705" lon="-73.982087"/>
+   <trkpt lat="40.767691" lon="-73.982035"/>
+   <trkpt lat="40.76768" lon="-73.981978"/>
+   <trkpt lat="40.767675" lon="-73.981882"/>
+   <trkpt lat="40.767656" lon="-73.981834"/>
+   <trkpt lat="40.767628" lon="-73.981793"/>
+   <trkpt lat="40.767609" lon="-73.981767"/>
+   <trkpt lat="40.767583" lon="-73.981743"/>
+   <trkpt lat="40.767549" lon="-73.981726"/>
+   <trkpt lat="40.767524" lon="-73.981713"/>
+   <trkpt lat="40.767492" lon="-73.981701"/>
+   <trkpt lat="40.767461" lon="-73.981697"/>
+   <trkpt lat="40.767431" lon="-73.981694"/>
+   <trkpt lat="40.767335" lon="-73.981713"/>
+   <trkpt lat="40.767335" lon="-73.981713"/>
+   <trkpt lat="40.767431" lon="-73.981694"/>
+   <trkpt lat="40.767461" lon="-73.981697"/>
+   <trkpt lat="40.767492" lon="-73.981701"/>
+   <trkpt lat="40.767524" lon="-73.981713"/>
+   <trkpt lat="40.767549" lon="-73.981726"/>
+   <trkpt lat="40.767583" lon="-73.981743"/>
+   <trkpt lat="40.767609" lon="-73.981767"/>
+   <trkpt lat="40.767628" lon="-73.981793"/>
+   <trkpt lat="40.767656" lon="-73.981834"/>
+   <trkpt lat="40.767675" lon="-73.981882"/>
+   <trkpt lat="40.767675" lon="-73.981882"/>
+   <trkpt lat="40.767678" lon="-73.981825"/>
+   <trkpt lat="40.767684" lon="-73.981756"/>
+   <trkpt lat="40.767696" lon="-73.981679"/>
+   <trkpt lat="40.767704" lon="-73.981631"/>
+   <trkpt lat="40.767751" lon="-73.981433"/>
+   <trkpt lat="40.76776" lon="-73.981396"/>
+   <trkpt lat="40.767764" lon="-73.981381"/>
+   <trkpt lat="40.767766" lon="-73.981355"/>
+   <trkpt lat="40.767764" lon="-73.981325"/>
+   <trkpt lat="40.767753" lon="-73.981275"/>
+   <trkpt lat="40.767735" lon="-73.981232"/>
+   <trkpt lat="40.767718" lon="-73.981185"/>
+   <trkpt lat="40.767629" lon="-73.980884"/>
+   <trkpt lat="40.767629" lon="-73.980884"/>
+   <trkpt lat="40.767599" lon="-73.980785"/>
+   <trkpt lat="40.767098" lon="-73.979601"/>
+   <trkpt lat="40.766925" lon="-73.979191"/>
+   <trkpt lat="40.766876" lon="-73.979076"/>
+  </trkseg>
+ </trk>
+</gpx>

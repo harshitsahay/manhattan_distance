@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>6/28: Madras Dosa Co to 23St ACE</name>
+  <trkseg>
+   <trkpt lat="40.741629" lon="-73.993732"/>
+   <trkpt lat="40.741687" lon="-73.993872"/>
+   <trkpt lat="40.742755" lon="-73.996405"/>
+   <trkpt lat="40.742775" lon="-73.996451"/>
+   <trkpt lat="40.742825" lon="-73.99657"/>
+   <trkpt lat="40.742825" lon="-73.99657"/>
+   <trkpt lat="40.742871" lon="-73.996537"/>
+   <trkpt lat="40.742918" lon="-73.996502"/>
+   <trkpt lat="40.743369" lon="-73.996173"/>
+   <trkpt lat="40.743432" lon="-73.99613"/>
+   <trkpt lat="40.743432" lon="-73.99613"/>
+   <trkpt lat="40.743485" lon="-73.996256"/>
+   <trkpt lat="40.744575" lon="-73.998839"/>
+   <trkpt lat="40.74463" lon="-73.998969"/>
+   <trkpt lat="40.74463" lon="-73.998969"/>
+   <trkpt lat="40.74469" lon="-73.998924"/>
+   <trkpt lat="40.7449" lon="-73.998775"/>
+   <trkpt lat="40.745204" lon="-73.998546"/>
+   <trkpt lat="40.745305" lon="-73.998472"/>
+  </trkseg>
+ </trk>
+</gpx>
