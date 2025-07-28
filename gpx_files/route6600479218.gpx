@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>5/31: Bookoff to Handcraft Burger</name>
+  <trkseg>
+   <trkpt lat="40.752944" lon="-73.985484"/>
+   <trkpt lat="40.752993" lon="-73.985446"/>
+   <trkpt lat="40.7535" lon="-73.985082"/>
+   <trkpt lat="40.753559" lon="-73.98504"/>
+   <trkpt lat="40.753619" lon="-73.984996"/>
+   <trkpt lat="40.753691" lon="-73.984945"/>
+   <trkpt lat="40.754119" lon="-73.984637"/>
+   <trkpt lat="40.754177" lon="-73.984596"/>
+   <trkpt lat="40.754236" lon="-73.984554"/>
+   <trkpt lat="40.754407" lon="-73.984432"/>
+   <trkpt lat="40.75476" lon="-73.984177"/>
+   <trkpt lat="40.754842" lon="-73.984118"/>
+   <trkpt lat="40.754944" lon="-73.984043"/>
+   <trkpt lat="40.75496" lon="-73.984031"/>
+   <trkpt lat="40.755455" lon="-73.983669"/>
+   <trkpt lat="40.755516" lon="-73.983624"/>
+   <trkpt lat="40.755574" lon="-73.983581"/>
+   <trkpt lat="40.756086" lon="-73.983208"/>
+   <trkpt lat="40.756142" lon="-73.983167"/>
+   <trkpt lat="40.756208" lon="-73.983119"/>
+   <trkpt lat="40.75671" lon="-73.982756"/>
+   <trkpt lat="40.756771" lon="-73.982712"/>
+   <trkpt lat="40.756713" lon="-73.982573"/>
+   <trkpt lat="40.756605" lon="-73.982313"/>
+   <trkpt lat="40.756357" lon="-73.981717"/>
+   <trkpt lat="40.756353" lon="-73.981708"/>
+  </trkseg>
+ </trk>
+</gpx>
