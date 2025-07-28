@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>6/15: Kei to Midtown Penn Station</name>
+  <trkseg>
+   <trkpt lat="40.744107" lon="-73.995638"/>
+   <trkpt lat="40.744203" lon="-73.995568"/>
+   <trkpt lat="40.744433" lon="-73.995402"/>
+   <trkpt lat="40.74462" lon="-73.995265"/>
+   <trkpt lat="40.744707" lon="-73.995202"/>
+   <trkpt lat="40.744765" lon="-73.99516"/>
+   <trkpt lat="40.744765" lon="-73.99516"/>
+   <trkpt lat="40.744823" lon="-73.995296"/>
+   <trkpt lat="40.745343" lon="-73.996515"/>
+   <trkpt lat="40.74592" lon="-73.997868"/>
+   <trkpt lat="40.745965" lon="-73.99799"/>
+   <trkpt lat="40.745965" lon="-73.99799"/>
+   <trkpt lat="40.746025" lon="-73.997945"/>
+   <trkpt lat="40.746199" lon="-73.997823"/>
+   <trkpt lat="40.746306" lon="-73.997746"/>
+   <trkpt lat="40.746525" lon="-73.997589"/>
+   <trkpt lat="40.74658" lon="-73.99755"/>
+   <trkpt lat="40.746641" lon="-73.997505"/>
+   <trkpt lat="40.747141" lon="-73.997141"/>
+   <trkpt lat="40.747217" lon="-73.997085"/>
+   <trkpt lat="40.747262" lon="-73.997053"/>
+   <trkpt lat="40.747781" lon="-73.996675"/>
+   <trkpt lat="40.747836" lon="-73.996635"/>
+   <trkpt lat="40.747886" lon="-73.996598"/>
+   <trkpt lat="40.748368" lon="-73.996241"/>
+   <trkpt lat="40.748435" lon="-73.996192"/>
+   <trkpt lat="40.748503" lon="-73.996141"/>
+   <trkpt lat="40.748665" lon="-73.99602"/>
+   <trkpt lat="40.748985" lon="-73.99578"/>
+   <trkpt lat="40.749056" lon="-73.995729"/>
+   <trkpt lat="40.749105" lon="-73.995693"/>
+   <trkpt lat="40.749622" lon="-73.995333"/>
+   <trkpt lat="40.749674" lon="-73.995296"/>
+   <trkpt lat="40.74973" lon="-73.995256"/>
+   <trkpt lat="40.749953" lon="-73.995094"/>
+   <trkpt lat="40.750238" lon="-73.994887"/>
+   <trkpt lat="40.750294" lon="-73.994845"/>
+  </trkseg>
+ </trk>
+</gpx>
