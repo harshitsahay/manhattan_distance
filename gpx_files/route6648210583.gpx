@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>9/3: Broadway short walk</name>
+  <trkseg>
+   <trkpt lat="40.733981" lon="-73.990953"/>
+   <trkpt lat="40.734022" lon="-73.991051"/>
+   <trkpt lat="40.734496" lon="-73.992176"/>
+   <trkpt lat="40.734529" lon="-73.992255"/>
+   <trkpt lat="40.734572" lon="-73.992358"/>
+   <trkpt lat="40.734538" lon="-73.992395"/>
+   <trkpt lat="40.734533" lon="-73.99242"/>
+   <trkpt lat="40.735215" lon="-73.994039"/>
+   <trkpt lat="40.735226" lon="-73.994065"/>
+   <trkpt lat="40.735263" lon="-73.994156"/>
+   <trkpt lat="40.7353" lon="-73.994246"/>
+   <trkpt lat="40.735312" lon="-73.994277"/>
+   <trkpt lat="40.736563" lon="-73.997258"/>
+   <trkpt lat="40.736614" lon="-73.997381"/>
+   <trkpt lat="40.736614" lon="-73.997381"/>
+   <trkpt lat="40.736668" lon="-73.997341"/>
+   <trkpt lat="40.736732" lon="-73.997295"/>
+   <trkpt lat="40.736895" lon="-73.997183"/>
+   <trkpt lat="40.737109" lon="-73.997022"/>
+   <trkpt lat="40.737275" lon="-73.996902"/>
+   <trkpt lat="40.737342" lon="-73.996854"/>
+   <trkpt lat="40.737361" lon="-73.99684"/>
+  </trkseg>
+ </trk>
+</gpx>

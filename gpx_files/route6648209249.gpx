@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>8/21/2025: Ave C to 1st Ave 11th St</name>
+  <trkseg>
+   <trkpt lat="40.726465" lon="-73.977085"/>
+   <trkpt lat="40.726518" lon="-73.977211"/>
+   <trkpt lat="40.727437" lon="-73.979395"/>
+   <trkpt lat="40.727468" lon="-73.979469"/>
+   <trkpt lat="40.727503" lon="-73.979551"/>
+   <trkpt lat="40.728404" lon="-73.98169"/>
+   <trkpt lat="40.728446" lon="-73.98179"/>
+   <trkpt lat="40.728487" lon="-73.981889"/>
+   <trkpt lat="40.728879" lon="-73.982823"/>
+   <trkpt lat="40.729066" lon="-73.983267"/>
+   <trkpt lat="40.729323" lon="-73.983879"/>
+   <trkpt lat="40.729373" lon="-73.983999"/>
+  </trkseg>
+ </trk>
+</gpx>
