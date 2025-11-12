@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>11/9/2025: Lex Ave Short Walk</name>
+  <trkseg>
+   <trkpt lat="40.762874" lon="-73.967719"/>
+   <trkpt lat="40.762921" lon="-73.967683"/>
+   <trkpt lat="40.763243" lon="-73.967448"/>
+   <trkpt lat="40.763421" lon="-73.967317"/>
+   <trkpt lat="40.763485" lon="-73.967273"/>
+   <trkpt lat="40.763541" lon="-73.967234"/>
+   <trkpt lat="40.764054" lon="-73.966859"/>
+   <trkpt lat="40.764112" lon="-73.966817"/>
+   <trkpt lat="40.764112" lon="-73.966817"/>
+   <trkpt lat="40.764154" lon="-73.966917"/>
+   <trkpt lat="40.764712" lon="-73.968242"/>
+   <trkpt lat="40.764757" lon="-73.968349"/>
+   <trkpt lat="40.764834" lon="-73.968532"/>
+   <trkpt lat="40.764834" lon="-73.968532"/>
+   <trkpt lat="40.764775" lon="-73.968575"/>
+   <trkpt lat="40.764308" lon="-73.968914"/>
+   <trkpt lat="40.764269" lon="-73.968943"/>
+   <trkpt lat="40.764207" lon="-73.968987"/>
+   <trkpt lat="40.764207" lon="-73.968987"/>
+   <trkpt lat="40.764269" lon="-73.968943"/>
+   <trkpt lat="40.764308" lon="-73.968914"/>
+   <trkpt lat="40.764775" lon="-73.968575"/>
+   <trkpt lat="40.764834" lon="-73.968532"/>
+   <trkpt lat="40.764834" lon="-73.968532"/>
+   <trkpt lat="40.764757" lon="-73.968349"/>
+   <trkpt lat="40.764712" lon="-73.968242"/>
+   <trkpt lat="40.764154" lon="-73.966917"/>
+   <trkpt lat="40.764112" lon="-73.966817"/>
+   <trkpt lat="40.764112" lon="-73.966817"/>
+   <trkpt lat="40.764167" lon="-73.966778"/>
+   <trkpt lat="40.764682" lon="-73.966403"/>
+   <trkpt lat="40.764739" lon="-73.966361"/>
+  </trkseg>
+ </trk>
+</gpx>
